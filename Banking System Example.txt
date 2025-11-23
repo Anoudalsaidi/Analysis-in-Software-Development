@@ -1,0 +1,107 @@
+# Banking System - Simple Product Backlog
+
+## User Stories
+
+1. **Create Account**  
+   - **Story Points:** 5 | **Priority:** High | **Business Value:** High  
+   - **Acceptance Criteria:** User can register, receive confirmation, and activate account.  
+
+2. **Login Securely**  
+   - **Story Points:** 3 | **Priority:** High | **Business Value:** High  
+   - **Acceptance Criteria:** User logs in with credentials; 2FA optional.  
+
+3. **Update Personal Details**  
+   - **Story Points:** 3 | **Priority:** Medium | **Business Value:** Medium  
+   - **Acceptance Criteria:** User can update contact info and changes are saved.  
+
+4. **Transfer Between Accounts**  
+   - **Story Points:** 5 | **Priority:** High | **Business Value:** High  
+   - **Acceptance Criteria:** User selects accounts and amount; transfer succeeds.  
+
+5. **Transfer to Other Users**  
+   - **Story Points:** 8 | **Priority:** High | **Business Value:** High  
+   - **Acceptance Criteria:** User selects recipient; transfer succeeds or fails with message.  
+
+6. **Schedule Recurring Transfers**  
+   - **Story Points:** 8 | **Priority:** Medium | **Business Value:** Medium  
+   - **Acceptance Criteria:** User sets frequency; notifications sent before transfer.  
+
+7. **Apply for Loan**  
+   - **Story Points:** 13 | **Priority:** High | **Business Value:** High  
+   - **Acceptance Criteria:** User enters loan details; eligibility checked; status updated.  
+
+8. **View Loan Balance & Schedule**  
+   - **Story Points:** 5 | **Priority:** Medium | **Business Value:** High  
+   - **Acceptance Criteria:** Shows balance, due dates, and payment history.  
+
+9. **View Account Statements**  
+   - **Story Points:** 5 | **Priority:** Medium | **Business Value:** High  
+   - **Acceptance Criteria:** User can view/download statements.  
+
+10. **Transaction Notifications**  
+    - **Story Points:** 3 | **Priority:** High | **Business Value:** High  
+    - **Acceptance Criteria:** User receives SMS/email for transactions.  
+
+11. **Reset Password**  
+    - **Story Points:** 3 | **Priority:** High | **Business Value:** High  
+    - **Acceptance Criteria:** User can reset password securely via email.  
+
+12. **Enable 2FA**  
+    - **Story Points:** 5 | **Priority:** Medium | **Business Value:** High  
+    - **Acceptance Criteria:** User can enable/disable 2FA; OTP sent on login.  
+
+13. **Contact Support via Chat**  
+    - **Story Points:** 8 | **Priority:** Medium | **Business Value:** Medium  
+    - **Acceptance Criteria:** Chat is real-time and responses are shown immediately.  
+
+14. **Submit Complaint/Feedback**  
+    - **Story Points:** 5 | **Priority:** Medium | **Business Value:** Medium  
+    - **Acceptance Criteria:** User can submit complaint; status tracked by bank.  
+
+15. **View FAQs**  
+    - **Story Points:** 3 | **Priority:** Low | **Business Value:** Medium  
+    - **Acceptance Criteria:** User can browse/search FAQs.  
+
+---
+
+## Simple Product Backlog Table
+
+| User Story                  | Points | Priority | Business Value |
+|-----------------------------|--------|----------|----------------|
+| Create Account              | 5      | High     | High           |
+| Login Securely              | 3      | High     | High           |
+| Update Personal Details     | 3      | Medium   | Medium         |
+| Transfer Between Accounts   | 5      | High     | High           |
+| Transfer to Other Users     | 8      | High     | High           |
+| Schedule Recurring Transfers| 8      | Medium   | Medium         |
+| Apply for Loan              | 13     | High     | High           |
+| View Loan Balance & Schedule| 5      | Medium   | High           |
+| View Account Statements     | 5      | Medium   | High           |
+| Transaction Notifications   | 3      | High     | High           |
+| Reset Password              | 3      | High     | High           |
+| Enable 2FA                  | 5      | Medium   | High           |
+| Contact Support via Chat    | 8      | Medium   | Medium         |
+| Submit Complaint/Feedback   | 5      | Medium   | Medium         |
+| View FAQs                   | 3      | Low      | Medium         |
+
+---
+
+## Simple ASCII Diagram: Backlog → Weighted → Sprint
+
++----------------+ +----------------+ +----------------+
+| Product Backlog| ---> | Weighted Score | ---> | Selected Sprint|
++----------------+ +----------------+ +----------------+
+| Story 1 | | Story 1: 10 | | Story 1 |
+| Story 2 | | Story 2: 9 | | Story 2 |
+| Story 3 | | Story 3: 6 | | Story 4 |
+| Story 4 | | ... | | ... |
+| ... | | | | |
++----------------+ +----------------+ +----------------+
+
+
+
+
+- **Step 1:** List all user stories in the product backlog.  
+- **Step 2:** Assign story points, priority, and business value to calculate weighted scores.  
+- **Step 3:** Select stories with highest weighted scores for the sprint.  
+

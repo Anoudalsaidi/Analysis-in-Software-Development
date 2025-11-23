@@ -1,0 +1,75 @@
+User Stories 
+✅ 1. What Are User Stories?
+
+User stories are short, simple descriptions of a feature written from the user’s point of view.
+They help the team understand what the user needs and why.
+
+Standard Format
+
+As a [user], I want [feature], so that [benefit].
+
+Example:
+As a student, I want to save my notes online so that I can access them anywhere.
+
+✅ 2. How to Write Effective User Stories
+
+Good user stories should be:
+
+🔹 Clear
+
+Easy to understand.
+
+🔹 User-focused
+
+Describe what the user wants, not the technical details.
+
+🔹 Small
+
+Not too large—small enough to finish in one sprint.
+
+🔹 Testable
+
+You should be able to check if it works.
+
+Tips for Writing Good Stories
+
+Focus on value for the user
+
+Avoid technical jargon
+
+Keep one goal per story
+
+Follow the INVEST rule:
+Independent
+Negotiable
+Valuable
+Estimable
+Small
+Testable
+
+✅ 3. What Are Acceptance Criteria?
+
+Acceptance criteria are conditions that must be met for the user story to be considered done.
+
+They help the team understand:
+
+What the feature should do
+
+Limitations
+
+How to test it
+
+Example Acceptance Criteria
+
+For the story:
+As a student, I want to save my notes online so that I can access them anywhere.
+
+Acceptance Criteria:
+
+User can type notes in a text box
+
+User can click “Save” to store the notes
+
+Notes remain saved after closing the app
+
+Notes load automatically when the user logs in

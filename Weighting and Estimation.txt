@@ -1,0 +1,42 @@
+# Weighting and Estimation
+
+## 1. Story Point Estimation Techniques
+Story points measure the relative effort, complexity, and risk of a user story. They are not exact time estimates.
+
+- **Fibonacci Sequence:** Assign points using numbers like 1, 2, 3, 5, 8, 13. Larger numbers = more complex stories.
+- **Relative Sizing:** Compare a new story to a previously completed story. Double the effort → double points.
+- **Ideal Days/Hours:** Optional mapping to time, but focus is on relative effort.
+
+## 2. Estimation Methods
+
+### Planning Poker
+- Each team member selects a card with their estimate (Fibonacci numbers).
+- Cards are revealed simultaneously.
+- Discuss differences and re-estimate until consensus.
+- Encourages discussion and shared understanding.
+
+### T-Shirt Sizing
+- Categorize stories as XS, S, M, L, XL based on complexity.
+- XS/S = simple, L/XL = complex.
+- Can later be converted to numerical story points.
+
+### Dot Voting / Affinity Estimation
+- Group stories quickly into size categories using team consensus.
+- Useful for large backlogs.
+
+## 3. Weighting User Stories
+Weight stories by considering:
+
+1. **Complexity:** Difficulty to implement (higher complexity → higher points)
+2. **Priority:** Importance for business or customer satisfaction
+3. **Business Value:** Impact on users or revenue
+
+Example:
+
+| User Story          | Complexity | Priority | Business Value | Weighted Score |
+|--------------------|------------|----------|----------------|----------------|
+| Login Functionality | 3          | High     | High           | 9              |
+| UI Theme Update     | 1          | Low      | Medium         | 2              |
+| Payment Gateway     | 5          | High     | High           | 15             |
+
+Weighted scores help decide the order of stories in sprints.

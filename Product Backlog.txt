@@ -1,0 +1,36 @@
+Product Backlog Development 
+
++-------------------------------+--------------------------------------------------------------+
+| Topic                         | Explanation                                                  |
++-------------------------------+--------------------------------------------------------------+
+| What is a Product Backlog?    | A list of all features, tasks, bugs, and improvements        |
+|                               | needed for the product. It guides what the team works on.   |
++-------------------------------+--------------------------------------------------------------+
+| Purpose of Product Backlog    | - Organizes all work in one place                           |
+|                               | - Helps plan what to build next                             |
+|                               | - Ensures focus on the most important items                 |
+|                               | - Supports long-term product planning                       |
++-------------------------------+--------------------------------------------------------------+
+| How to Create a Backlog       | 1. Gather requirements from users and stakeholders          |
+|                               | 2. Turn them into user stories, tasks, and bug items        |
+|                               | 3. Add details (description, acceptance criteria, effort)   |
+|                               | 4. Order items from most to least important                 |
++-------------------------------+--------------------------------------------------------------+
+| How to Structure a Backlog    | - Top items: clear, detailed, and ready for next sprint     |
+|                               | - Bottom items: less detailed and to be refined later       |
++-------------------------------+--------------------------------------------------------------+
+| Prioritization Techniques     | - MoSCoW (Must, Should, Could, Won’t)                       |
+|                               | - Value vs. Effort                                          |
+|                               | - Kano Model                                                |
+|                               | - WSJF (Weighted Shortest Job First)                        |
++-------------------------------+--------------------------------------------------------------+
+| Backlog Refinement            | Regular updates to:                                         |
+|                               | - Add/revise items                                          |
+|                               | - Break big items into smaller tasks                        |
+|                               | - Re-estimate effort                                        |
+|                               | - Re-prioritize based on new info                           |
++-------------------------------+--------------------------------------------------------------+
+| Why Refinement is Important   | - Keeps backlog clean and organized                         |
+|                               | - Ensures top items are ready for sprint planning           |
+|                               | - Avoids confusion during development                       |
++-------------------------------+--------------------------------------------------------------+

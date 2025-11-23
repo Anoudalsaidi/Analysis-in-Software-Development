@@ -1,0 +1,39 @@
+The Analysis Phase 
+1. What is the Analysis Phase and Why is it Important?
+
+The analysis phase is the step where we understand the problem and figure out what the software should do.
+It is important because it helps the team know exactly what to build before starting work.
+This avoids mistakes, saves time, and makes sure the final product meets the user’s needs.
+
+2. Steps of the Analysis Phase (Simple)
+a. Gathering Requirements
+
+Talk to users and stakeholders to collect information about what they want.
+Methods: interviews, surveys, observing how they work, checking current systems.
+
+b. Analyzing Requirements
+
+Review the gathered information to make sure it is clear, possible to do, and does not have any contradictions.
+Decide which requirements are most important.
+
+c. Documenting Requirements
+
+Write everything in a clear, organized document (like an SRS).
+This helps designers and developers know exactly what to create.
+
+d. Validating Requirements
+
+Share the document with users to confirm everything is correct.
+Changes are made if needed.
+
+3. Deliverables / Outputs
+
+At the end of this phase, you should have:
+
+A Software Requirements Specification (SRS)
+
+Diagrams like use cases, flowcharts, or data flow diagrams
+
+A clear description of what the system will do
+
+Approval from stakeholders on the requirements
